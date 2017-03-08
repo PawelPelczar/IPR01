@@ -5,3 +5,5 @@ Wstępne, próbne repozytorium dla projektu inżynierskiego PSI
 * Paweł Pelczar
 * Dawid Twardowski
 * Michał Szczepanowski
+* Mikołaj Dzik
+* Mateusz Zwolanowski

@@ -16,7 +16,7 @@ Wstępne, próbne repozytorium dla projektu inżynierskiego PSI
 4. Głównym celem projektu nie jest zaplanowanie 100% zadań, a nie zaplanowanie pracownikowi 100% jego nominału
 5. Cechy dodatkowe:
  5.1. Metryki:
-  5.1.1 Uwzględnianie preferencji osobniczych w ocenie jakości planu.
+  1 Uwzględnianie preferencji osobniczych w ocenie jakości planu.
   5.1.2 Niedogodziny zaplanowane
   5.1.3 Procent zaplanowanych zadań
   5.1.4 Post-factum- wynikłe nadgodziny

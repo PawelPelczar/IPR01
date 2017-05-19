@@ -15,7 +15,7 @@ Wstępne, próbne repozytorium dla projektu inżynierskiego PSI
 3. Nadgodziny mogą pojawiać się w planie dziennym, nigdy w planie miesięcznym.
 4. Głównym celem projektu nie jest zaplanowanie 100% zadań, a nie zaplanowanie pracownikowi 100% jego nominału
 5. Cechy dodatkowe:
- - Metryki:
+ 1. Metryki:
   * Uwzględnianie preferencji osobniczych w ocenie jakości planu.
   * Niedogodziny zaplanowane
   * Procent zaplanowanych zadań

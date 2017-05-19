@@ -9,7 +9,7 @@ Wstępne, próbne repozytorium dla projektu inżynierskiego PSI
 * Mateusz Zwolanowski
 
 
-#Cele projektu - stratyfikacja: 
+# Cele projektu - stratyfikacja: 
 1. Minimum: Planowanie maksymalnej liczby zadań przy spełnianiu norm prawa transportowego, prawa pracy i z uwzględnieniem wyszkolenia kierowców w danym typie taboru
 2. Miarą jakości algorytmu będzie możliwość minimalizowania nadgodzin i niedogodzin w danym, określonym z góry, niektóryszym, niż dwa tygodnie i nie dłuższym, niż kwartał okresie rozliczeniowym.
 3. Nadgodziny mogą pojawiać się w planie dziennym, nigdy w planie miesięcznym.
@@ -26,7 +26,7 @@ Wstępne, próbne repozytorium dla projektu inżynierskiego PSI
 7. Półetatowcy i inni pracownicy niezatrudnieni na umowę o pracę - ich zadań nie można planowań w rozliczeniu miesięcznym. Jeżeli mimo wszystko chcemy zapełnić nimi jakąś lukę już w wyprzedzeniem, to w dniu zgłoszonym przez pracownika nie planujemy nikogo na dane zadanie, a pracownik na np. połowę etatu, czy umowę-zlecenie jest o tym informowany z parodniowym wyprzedzeniem.
 
 
-###Guidelines:
+### Guidelines:
 1. Lepiej opłacić nadgodziny, niż stracić kilometry - jeśli mamy do wyboru tylko jednego człowieka z 4-godzinowym nominałem i 10-godzinną trasę to przesuwamy go na 10h i płącimy.
 2. Optymalizujemy nieprzydzielone zadania pod wzlgędem
   2.1 Małej częstotliwości kursu

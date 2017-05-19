@@ -19,7 +19,7 @@ Wstępne, próbne repozytorium dla projektu inżynierskiego PSI
     1. Uwzględnianie preferencji osobniczych w ocenie jakości planu.
     2. Niedogodziny zaplanowane
     3. Procent zaplanowanych zadań
-    4. Post-factum- wynikłe nadgodziny
+     4. Post-factum- wynikłe nadgodziny
 6. Optymalizacja kwartalna - pozwoli na zamianę nadgodziny wypracowanych w jednym miesiącu na wolne w innym w ramach jednego kwartału - godzina za godzinę - zamiast na wypłacenie należności za pracę po godzinach. Jest to jednak cel dodatkowy, na razie nie kompensujemy nadgodzin.
 7. Półetatowcy i inni pracownicy niezatrudnieni na umowę o pracę - ich zadań nie można planowań w rozliczeniu miesięcznym. Jeżeli mimo wszystko chcemy zapełnić nimi jakąś lukę już w wyprzedzeniem, to w dniu zgłoszonym przez pracownika nie planujemy nikogo na dane zadanie, a pracownik na np. połowę etatu, czy umowę-zlecenie jest o tym informowany z parodniowym wyprzedzeniem.
 
